@@ -1,0 +1,13 @@
+outs:
+- md5: 0285138b0b04425cfbf99db283864d83
+  size: 17
+  path: file_86.txt
+meta:
+  hkube:
+    id: cli-lwe8
+    name: file_86.txt
+    size: 17
+    type: text/plain
+    meta: ''
+    uploadedAt: 1619508897438
+    hash: 0285138b0b04425cfbf99db283864d83

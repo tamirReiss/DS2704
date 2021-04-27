@@ -1,0 +1,13 @@
+outs:
+- md5: 351508edf822a8d431218cb1fef212b5
+  size: 17
+  path: file_76.txt
+meta:
+  hkube:
+    id: cli-doc9
+    name: file_76.txt
+    size: 17
+    type: text/plain
+    meta: ''
+    uploadedAt: 1619508897571
+    hash: 351508edf822a8d431218cb1fef212b5

@@ -1,0 +1,14 @@
+outs:
+- md5: 4bc7b8f61f706ad6a8941700e9489b32
+  size: 17
+  path: file_58.txt
+meta:
+  hkube:
+    id: cli-jpf0
+    name: file_58.txt
+    size: 17
+    type: text/plain
+    meta: |
+      from 40 to 60 
+    uploadedAt: 1619508897563
+    hash: 4bc7b8f61f706ad6a8941700e9489b32

@@ -1,0 +1,13 @@
+outs:
+- md5: 9eab3824ecd650e85dff668c5336719e
+  size: 17
+  path: file_71.txt
+meta:
+  hkube:
+    id: cli-48fr
+    name: file_71.txt
+    size: 17
+    type: text/plain
+    meta: ''
+    uploadedAt: 1619508897488
+    hash: 9eab3824ecd650e85dff668c5336719e

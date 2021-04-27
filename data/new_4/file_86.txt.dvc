@@ -1,0 +1,13 @@
+outs:
+- md5: a510b8643e8cf31761eb27ef63f8ae8a
+  size: 17
+  path: file_86.txt
+meta:
+  hkube:
+    id: cli-ven1
+    name: file_86.txt
+    size: 17
+    type: text/plain
+    meta: ''
+    uploadedAt: 1619508897575
+    hash: a510b8643e8cf31761eb27ef63f8ae8a

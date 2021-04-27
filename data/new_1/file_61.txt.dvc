@@ -1,0 +1,13 @@
+outs:
+- md5: f02a6ca6558d36051b3f741d5e4462b9
+  size: 17
+  path: file_61.txt
+meta:
+  hkube:
+    id: cli-hl1w
+    name: file_61.txt
+    size: 17
+    type: text/plain
+    meta: ''
+    uploadedAt: 1619508897426
+    hash: f02a6ca6558d36051b3f741d5e4462b9

@@ -1,0 +1,13 @@
+outs:
+- md5: 7ac61d8dc890cbbec44f9eb81c53f9ba
+  size: 17
+  path: file_71.txt
+meta:
+  hkube:
+    id: cli-3o4x
+    name: file_71.txt
+    size: 17
+    type: text/plain
+    meta: ''
+    uploadedAt: 1619508897431
+    hash: 7ac61d8dc890cbbec44f9eb81c53f9ba

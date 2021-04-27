@@ -1,0 +1,14 @@
+outs:
+- md5: 032037916a441cac34528b2e168a800f
+  size: 16
+  path: file_0.txt
+meta:
+  hkube:
+    id: cli-03d3
+    name: file_0.txt
+    size: 16
+    type: text/plain
+    meta: |
+      first 20
+    uploadedAt: 1619508897541
+    hash: 032037916a441cac34528b2e168a800f

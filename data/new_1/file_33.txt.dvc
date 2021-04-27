@@ -1,0 +1,15 @@
+outs:
+- md5: 3651e5b0e1ca497ce1011b942ead604d
+  size: 17
+  path: file_33.txt
+meta:
+  hkube:
+    id: cli-276g
+    name: file_33.txt
+    size: 17
+    type: text/plain
+    meta: |
+      from 20 to 40 
+      from 30 to 50 
+    uploadedAt: 1619508897405
+    hash: 3651e5b0e1ca497ce1011b942ead604d

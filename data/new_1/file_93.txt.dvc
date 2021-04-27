@@ -1,0 +1,13 @@
+outs:
+- md5: 076d24b2cb1d51927d470dd5615beee2
+  size: 17
+  path: file_93.txt
+meta:
+  hkube:
+    id: cli-57uw
+    name: file_93.txt
+    size: 17
+    type: text/plain
+    meta: ''
+    uploadedAt: 1619508897442
+    hash: 076d24b2cb1d51927d470dd5615beee2

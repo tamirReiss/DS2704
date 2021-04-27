@@ -1,0 +1,13 @@
+outs:
+- md5: de63e2bb9c9360211c9d0b174c8569ae
+  size: 17
+  path: file_99.txt
+meta:
+  hkube:
+    id: cli-b1fg
+    name: file_99.txt
+    size: 17
+    type: text/plain
+    meta: ''
+    uploadedAt: 1619508897502
+    hash: de63e2bb9c9360211c9d0b174c8569ae

@@ -1,0 +1,13 @@
+outs:
+- md5: 0fb0c549e914bea17904e4da449628c7
+  size: 17
+  path: file_69.txt
+meta:
+  hkube:
+    id: cli-nr91
+    name: file_69.txt
+    size: 17
+    type: text/plain
+    meta: ''
+    uploadedAt: 1619508897567
+    hash: 0fb0c549e914bea17904e4da449628c7

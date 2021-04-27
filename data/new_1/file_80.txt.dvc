@@ -1,0 +1,13 @@
+outs:
+- md5: fd96de34313034422d559355b38f0764
+  size: 17
+  path: file_80.txt
+meta:
+  hkube:
+    id: cli-4xpp
+    name: file_80.txt
+    size: 17
+    type: text/plain
+    meta: ''
+    uploadedAt: 1619508897435
+    hash: fd96de34313034422d559355b38f0764

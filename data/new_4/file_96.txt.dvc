@@ -1,0 +1,13 @@
+outs:
+- md5: ba52140a440a0562f3c05c976f53c469
+  size: 17
+  path: file_96.txt
+meta:
+  hkube:
+    id: cli-zxm6
+    name: file_96.txt
+    size: 17
+    type: text/plain
+    meta: ''
+    uploadedAt: 1619508897578
+    hash: ba52140a440a0562f3c05c976f53c469

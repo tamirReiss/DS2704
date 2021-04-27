@@ -1,0 +1,13 @@
+outs:
+- md5: c9f1932e09ab9ce2ceab13bc591eb027
+  size: 17
+  path: file_89.txt
+meta:
+  hkube:
+    id: cli-017j
+    name: file_89.txt
+    size: 17
+    type: text/plain
+    meta: ''
+    uploadedAt: 1619508897537
+    hash: c9f1932e09ab9ce2ceab13bc591eb027

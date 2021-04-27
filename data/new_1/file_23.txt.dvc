@@ -1,0 +1,14 @@
+outs:
+- md5: c11206c5f4563f55565cad4900b1d45c
+  size: 17
+  path: file_23.txt
+meta:
+  hkube:
+    id: cli-9cx7
+    name: file_23.txt
+    size: 17
+    type: text/plain
+    meta: |
+      from 20 to 40 
+    uploadedAt: 1619508897395
+    hash: c11206c5f4563f55565cad4900b1d45c
